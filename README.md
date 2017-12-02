@@ -1,5 +1,8 @@
 # Bin Packing
 
-#### Using Excel VBA
+#### Excel VBA code
+1D bin packing implemented by Excel VBA [Download](1D-bin-packing/Bin Packing Test_20171201_1.xlsb)
 
-#### Using Python package
+#### Python code
+First, install pyhon package
+`pip install bin-packing-problem`
