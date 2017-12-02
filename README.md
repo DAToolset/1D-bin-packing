@@ -1,1 +1,5 @@
-# bin-packing-problem
+# Bin Packing
+
+#### Using Excel VBA
+
+#### Using Python package
