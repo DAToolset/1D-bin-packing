@@ -1,4 +1,4 @@
-# Job scheduling using 1D bin-packing algorithm
+# 1D bin-packing algorithm implementation
 
 ### Excel VBA code
 1D bin packing implemented by Excel VBA (Bin Packing Test_20171201_1.xlsb)
