@@ -1,7 +1,7 @@
 # 1D bin-packing algorithm implementation
 
 ### Excel VBA code
-1D bin packing implemented by Excel VBA (Bin Packing Test_20171201_1.xlsb)
+1D bin packing implemented by Excel VBA (1차원 Bin Packing_20210321_1.xlsb)
 
 ### Python code
 First, install pyhon package<br>
