@@ -25,3 +25,6 @@ https://prodtool.tistory.com/6 [생산성 도구 for DA(Data Architect)]
 
 6. 1차원 Bin Packing 알고리즘을 활용한 작업 배분 최적화_4.별첨  
 https://prodtool.tistory.com/7 [생산성 도구 for DA(Data Architect)]  
+
+7. 1차원 Bin Packing 도구 최근 변경 사항 (2021-03-21 기준)  
+https://prodtool.tistory.com/14 [생산성 도구 for DA(Data Architect)]  
