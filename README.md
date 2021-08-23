@@ -7,7 +7,7 @@
 First, install pyhon package<br>
 `pip install bin-packing-problem`
 
-### Usage & Source code explanation
+### 1D bin-packing Tool(1차원 Bin Packing_20210321_1.xlsb) Usage & Source code explanation
 1. 1차원 Bin Packing 알고리즘을 활용한 작업 배분 최적화_1.개요  
 https://prodtool.tistory.com/2 [생산성 도구 for DA(Data Architect)]  
 
